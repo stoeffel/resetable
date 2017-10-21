@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "A datastructure that allows you to reset its value to an original value.",
     "repository": "https://github.com/stoeffel/resetable.git",
     "license": "BSD3",
