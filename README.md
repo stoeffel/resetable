@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/stoeffel/resetable.svg?branch=master)](https://travis-ci.org/stoeffel/resetable)
 
-Editable
-========
+Resetable
+=========
 
 > A datastructure that allows you to reset its value to an original value.
 
