@@ -1,4 +1,4 @@
-module Resetable exposing (Resetable, init, map, reset, value)
+module Resetable exposing (Resetable, init, value, map, reset)
 
 {-| Simple datastructure which allows you to reset to it's original value.
 It's kinda like `Editable` (<http://package.elm-lang.org/packages/stoeffel/editable/latest>), but simpler and there is no way to override its original value.
