@@ -1,0 +1,19 @@
+{
+  "name": "resetable",
+  "version": "1.0.0",
+  "description": "resetable",
+  "main": "index.js",
+  "directories": {
+    "lib": "src"
+  },
+  "scripts": {
+    "test": "npx elm-verify-examples && npx elm-test"
+  },
+  "keywords": [],
+  "author": "schtoeffel",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "elm-test": "^0.19.0-beta8",
+    "elm-verify-examples": "^3.0.1"
+  }
+}
