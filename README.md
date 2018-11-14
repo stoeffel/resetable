@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.org/stoeffel/resetable.svg?branch=master)](https://travis-ci.org/stoeffel/resetable)
 
-Resetable
-=========
+# Resetable
 
 > A datastructure that allows you to reset its value to an original value.
 
@@ -18,13 +17,12 @@ Resetable.init "luke"
 --> "luke"
 ```
 
-
 ## Installation
 
-`elm-package install stoeffel/resetable`
+`elm install stoeffel/resetable`
 
 ## Tests
 
 Install packages: `npm install -g elm-test elm-verify-examples`
 
-Execute tests: `./execute-tests`
+Execute tests: `elm-verify-examples && elm-test`
