@@ -5,3 +5,4 @@ repl-temp-*
 documentation.json
 tests/Doc
 elm.js
+tests/VerifyExamples/Resetable
